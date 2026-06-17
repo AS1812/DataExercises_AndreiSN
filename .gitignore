@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Env / secrets
+.env
+
+# OS
+.DS_Store
+
+# Word temp lock files
+~$*
+
+# Criterion's own brief — kept local, excluded from the public repo
+tasks/

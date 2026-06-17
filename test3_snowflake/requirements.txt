@@ -1,0 +1,2 @@
+snowflake-connector-python==4.6.0
+psycopg2-binary==2.9.12          # for export.py (reads the Test 2 Postgres)

@@ -1,0 +1,242 @@
+[
+  {
+    "gas_day": "2026-06-16",
+    "cycle_label": "Timely",
+    "site_cycle_id": "1",
+    "direction": "Receipt",
+    "raw_file": "302_260616_1_R.txt",
+    "n_rows": 73
+  },
+  {
+    "gas_day": "2026-06-16",
+    "cycle_label": "Timely",
+    "site_cycle_id": "1",
+    "direction": "Delivery",
+    "raw_file": "302_260616_1_D.txt",
+    "n_rows": 246
+  },
+  {
+    "gas_day": "2026-06-16",
+    "cycle_label": "Evening",
+    "site_cycle_id": "2",
+    "direction": "Receipt",
+    "raw_file": "302_260616_2_R.txt",
+    "n_rows": 73
+  },
+  {
+    "gas_day": "2026-06-16",
+    "cycle_label": "Evening",
+    "site_cycle_id": "2",
+    "direction": "Delivery",
+    "raw_file": "302_260616_2_D.txt",
+    "n_rows": 246
+  },
+  {
+    "gas_day": "2026-06-16",
+    "cycle_label": "Intra-Day 1",
+    "site_cycle_id": "3",
+    "direction": "Receipt",
+    "raw_file": "302_260616_3_R.txt",
+    "n_rows": 73
+  },
+  {
+    "gas_day": "2026-06-16",
+    "cycle_label": "Intra-Day 1",
+    "site_cycle_id": "3",
+    "direction": "Delivery",
+    "raw_file": "302_260616_3_D.txt",
+    "n_rows": 246
+  },
+  {
+    "gas_day": "2026-06-16",
+    "cycle_label": "Intra-Day 2",
+    "site_cycle_id": "4",
+    "direction": "Receipt",
+    "raw_file": "302_260616_4_R.txt",
+    "n_rows": 0
+  },
+  {
+    "gas_day": "2026-06-16",
+    "cycle_label": "Intra-Day 2",
+    "site_cycle_id": "4",
+    "direction": "Delivery",
+    "raw_file": "302_260616_4_D.txt",
+    "n_rows": 0
+  },
+  {
+    "gas_day": "2026-06-16",
+    "cycle_label": "Intra-Day 3",
+    "site_cycle_id": "6",
+    "direction": "Receipt",
+    "raw_file": "302_260616_6_R.txt",
+    "n_rows": 0
+  },
+  {
+    "gas_day": "2026-06-16",
+    "cycle_label": "Intra-Day 3",
+    "site_cycle_id": "6",
+    "direction": "Delivery",
+    "raw_file": "302_260616_6_D.txt",
+    "n_rows": 0
+  },
+  {
+    "gas_day": "2026-06-15",
+    "cycle_label": "Timely",
+    "site_cycle_id": "1",
+    "direction": "Receipt",
+    "raw_file": "302_260615_1_R.txt",
+    "n_rows": 73
+  },
+  {
+    "gas_day": "2026-06-15",
+    "cycle_label": "Timely",
+    "site_cycle_id": "1",
+    "direction": "Delivery",
+    "raw_file": "302_260615_1_D.txt",
+    "n_rows": 246
+  },
+  {
+    "gas_day": "2026-06-15",
+    "cycle_label": "Evening",
+    "site_cycle_id": "2",
+    "direction": "Receipt",
+    "raw_file": "302_260615_2_R.txt",
+    "n_rows": 73
+  },
+  {
+    "gas_day": "2026-06-15",
+    "cycle_label": "Evening",
+    "site_cycle_id": "2",
+    "direction": "Delivery",
+    "raw_file": "302_260615_2_D.txt",
+    "n_rows": 246
+  },
+  {
+    "gas_day": "2026-06-15",
+    "cycle_label": "Intra-Day 1",
+    "site_cycle_id": "3",
+    "direction": "Receipt",
+    "raw_file": "302_260615_3_R.txt",
+    "n_rows": 73
+  },
+  {
+    "gas_day": "2026-06-15",
+    "cycle_label": "Intra-Day 1",
+    "site_cycle_id": "3",
+    "direction": "Delivery",
+    "raw_file": "302_260615_3_D.txt",
+    "n_rows": 246
+  },
+  {
+    "gas_day": "2026-06-15",
+    "cycle_label": "Intra-Day 2",
+    "site_cycle_id": "4",
+    "direction": "Receipt",
+    "raw_file": "302_260615_4_R.txt",
+    "n_rows": 73
+  },
+  {
+    "gas_day": "2026-06-15",
+    "cycle_label": "Intra-Day 2",
+    "site_cycle_id": "4",
+    "direction": "Delivery",
+    "raw_file": "302_260615_4_D.txt",
+    "n_rows": 246
+  },
+  {
+    "gas_day": "2026-06-15",
+    "cycle_label": "Intra-Day 3",
+    "site_cycle_id": "6",
+    "direction": "Receipt",
+    "raw_file": "302_260615_6_R.txt",
+    "n_rows": 73
+  },
+  {
+    "gas_day": "2026-06-15",
+    "cycle_label": "Intra-Day 3",
+    "site_cycle_id": "6",
+    "direction": "Delivery",
+    "raw_file": "302_260615_6_D.txt",
+    "n_rows": 246
+  },
+  {
+    "gas_day": "2026-06-14",
+    "cycle_label": "Timely",
+    "site_cycle_id": "1",
+    "direction": "Receipt",
+    "raw_file": "302_260614_1_R.txt",
+    "n_rows": 73
+  },
+  {
+    "gas_day": "2026-06-14",
+    "cycle_label": "Timely",
+    "site_cycle_id": "1",
+    "direction": "Delivery",
+    "raw_file": "302_260614_1_D.txt",
+    "n_rows": 246
+  },
+  {
+    "gas_day": "2026-06-14",
+    "cycle_label": "Evening",
+    "site_cycle_id": "2",
+    "direction": "Receipt",
+    "raw_file": "302_260614_2_R.txt",
+    "n_rows": 73
+  },
+  {
+    "gas_day": "2026-06-14",
+    "cycle_label": "Evening",
+    "site_cycle_id": "2",
+    "direction": "Delivery",
+    "raw_file": "302_260614_2_D.txt",
+    "n_rows": 246
+  },
+  {
+    "gas_day": "2026-06-14",
+    "cycle_label": "Intra-Day 1",
+    "site_cycle_id": "3",
+    "direction": "Receipt",
+    "raw_file": "302_260614_3_R.txt",
+    "n_rows": 73
+  },
+  {
+    "gas_day": "2026-06-14",
+    "cycle_label": "Intra-Day 1",
+    "site_cycle_id": "3",
+    "direction": "Delivery",
+    "raw_file": "302_260614_3_D.txt",
+    "n_rows": 246
+  },
+  {
+    "gas_day": "2026-06-14",
+    "cycle_label": "Intra-Day 2",
+    "site_cycle_id": "4",
+    "direction": "Receipt",
+    "raw_file": "302_260614_4_R.txt",
+    "n_rows": 73
+  },
+  {
+    "gas_day": "2026-06-14",
+    "cycle_label": "Intra-Day 2",
+    "site_cycle_id": "4",
+    "direction": "Delivery",
+    "raw_file": "302_260614_4_D.txt",
+    "n_rows": 246
+  },
+  {
+    "gas_day": "2026-06-14",
+    "cycle_label": "Intra-Day 3",
+    "site_cycle_id": "6",
+    "direction": "Receipt",
+    "raw_file": "302_260614_6_R.txt",
+    "n_rows": 73
+  },
+  {
+    "gas_day": "2026-06-14",
+    "cycle_label": "Intra-Day 3",
+    "site_cycle_id": "6",
+    "direction": "Delivery",
+    "raw_file": "302_260614_6_D.txt",
+    "n_rows": 246
+  }
+]

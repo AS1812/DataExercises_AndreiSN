@@ -1,0 +1,23 @@
+# Throwaway Postgres for Test 2. Data is NOT persisted (no volume) -- it is fully
+# reproduced from schema.sql + seed_data.sql on every run, so there is no DB dump
+# to keep. Host port 5433 avoids clashing with any local Postgres on 5432.
+#
+#   cp .env.example .env        # connection params (used here AND by run.py)
+#   docker compose up -d        # start the database
+#   python run.py               # load -> loop/print uuid -> add test_results -> export
+#   docker compose down         # stop & remove the container
+services:
+  postgres:
+    image: postgres:16
+    container_name: criterion_test2_pg
+    environment:
+      POSTGRES_USER: ${PGUSER:-criterion}
+      POSTGRES_PASSWORD: ${PGPASSWORD:-criterion}
+      POSTGRES_DB: ${PGDATABASE:-criterion}
+    ports:
+      - "${PGPORT:-5433}:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${PGUSER:-criterion}"]
+      interval: 2s
+      timeout: 3s
+      retries: 15
